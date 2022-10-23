@@ -1,4 +1,4 @@
-//Sharun Naicker & Nehanth Narendrula
-
-//A program that uses an ML Model I created to classify the different 
-//buildings at the University of Texas at Dallas 
+# UT DALLAS Building Classifier - ML Mobile Application 
+================
+## Submission for UT Dallas HackReason 2022 
+01-15-2022
